@@ -1,0 +1,28 @@
+.table-container {
+    width: 100vw;
+    margin: 20px;
+}
+
+.table{
+    width: 100%;
+    
+}
+
+.cart-image {
+    width: 15rem;
+    height: 10rem;
+}
+.table-row{
+    border: 1px solid #c4c4c4;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.table-head{
+    text-align: left;
+}
+
+.cart-image-empty {
+    width: 100vw;
+    height: 40vh;
+}

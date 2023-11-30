@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    height: 25px;
+    -webkit-box-shadow: -6px 10px 5px -5px rgba(189,178,189,1);
+    -moz-box-shadow: -6px 10px 5px -5px rgba(189,178,189,1);
+    box-shadow: -6px 10px 5px -5px rgba(189,178,189,1);
+}
+
+.cart-container {
+    margin-right: 20px;
+    position: relative;   
+    
+}
+
+.cart-counter {
+    background-color: rgb(239, 166, 166);
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -10px;
+    right: -15px;
+    
+}
+
+.icon-container{
+    display: flex;
+}
+
+.title-ecom{
+    cursor: pointer;
+    font-weight: 800;
+}
